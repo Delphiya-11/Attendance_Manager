@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/department"
+        android:icon="@drawable/ic_department"
+        android:title="Departments"/>
+
+    <item android:id="@+id/check_give"
+        android:icon="@drawable/ic_check_attendance"
+        android:title="Attendance"/>
+
+    <item android:id="@+id/verify"
+        android:icon="@drawable/ic_verify"
+        android:title="Attendance Verification"/>
+
+    <item android:id="@+id/percentage"
+        android:icon="@drawable/ic_percentage"
+        android:title="Attendance Percentage"/>
+
+    <item android:id="@+id/year"
+        android:icon="@drawable/ic_year"
+        android:title="Year"/>
+
+    <item android:id="@+id/subject"
+        android:icon="@drawable/ic_subject"
+        android:title="Subject"/>
+
+</menu>

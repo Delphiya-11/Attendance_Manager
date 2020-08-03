@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorPrimaryDark">
+    <item android:id="@+id/login_button">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <gradient
+                android:startColor="#FFCDD2"
+                android:centerColor="#fce4ec"
+                android:endColor="@color/white"
+                android:gradientRadius="30dp"
+                android:angle="0" />
+            <corners android:radius="100dp" />
+        </shape>
+    </item>
+</ripple>
